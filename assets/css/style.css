@@ -1,0 +1,35 @@
+#veil{
+    height: 200px;
+}
+#kickback{
+    height: 200px;
+}
+#undertale{
+    height: 200px;
+}
+#fairytail{
+    height: 200px;
+}
+#cheese{
+    height: 200px;
+}
+#veil img{
+    height: 100px; 
+}
+#kickback img{
+    height: 100px;
+}
+#undertale img{
+    height: 100px;
+}
+#fairytail img{
+    height: 100px;
+}
+#cheese img{
+    height: 100px;
+}
+#imgenaudio{
+    height: 1000px;
+    width: 1000px;
+    display: flex;
+}
