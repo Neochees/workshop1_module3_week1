@@ -8,7 +8,7 @@ body{
     width: 1000px;
     margin-left: 250px;
     border: solid black;
-    border-top: limegreen solid;
+    border-top: limegreen solid 10px;
     background-color: rgb(57, 57, 57)
 }
 #imges{
