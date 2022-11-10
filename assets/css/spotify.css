@@ -35,12 +35,14 @@ body{
     height: 150px;
 }
 #veil img{
-    height: 75px; 
-    padding-top: 62px;
-    padding-bottom: 62px;
+    height: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 #kickback img{
-    height: 200px;
+    height: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 #undertale img{
     height: 100px;
@@ -48,9 +50,9 @@ body{
     padding-bottom: 50px;
 }
 #fairytail img{
-    height: 75px;
-    padding-top: 62px;
-    padding-bottom: 62px;
+    height: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 #cheese img{
     height: 100px;
@@ -60,7 +62,4 @@ body{
 #songnames a{
     text-decoration: none;
     color: white
-}
-#spotify a{
-    color:  white;
 }
