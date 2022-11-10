@@ -1,35 +1,59 @@
-#veil{
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:dimgray;
+    color: white;
+}
+#container{
+    height: 1000px;
+    width: 1000px;
+    margin-left: 250px;
+    border: solid black;
+    border-top: limegreen solid;
+    background-color: rgb(57, 57, 57)
+}
+#imges{
     height: 200px;
+    width: 998px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+#veil{
+    height: 100px;
 }
 #kickback{
-    height: 200px;
+    height: 100px;
 }
 #undertale{
-    height: 200px;
+    height: 100px;
 }
 #fairytail{
-    height: 200px;
+    height: 100px;
 }
 #cheese{
-    height: 200px;
+    height: 150px;
 }
 #veil img{
-    height: 100px; 
+    height: 75px; 
+    padding-top: 62px;
+    padding-bottom: 62px;
 }
 #kickback img{
-    height: 100px;
+    height: 200px;
 }
 #undertale img{
     height: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 #fairytail img{
-    height: 100px;
+    height: 75px;
+    padding-top: 62px;
+    padding-bottom: 62px;
 }
 #cheese img{
     height: 100px;
-}
-#imgenaudio{
-    height: 1000px;
-    width: 1000px;
-    display: flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
